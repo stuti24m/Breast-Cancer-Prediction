@@ -1,8 +1,8 @@
 # Breast-Cancer-Prediction
-Building a Simple Machine Learning Model on Breast Cancer Data    || Still working on the deployment phase.
+❤ Building a Simple Machine Learning Model on Breast Cancer Data     ||  Still working on the deployment phase.
 	This project is a part of EDA (Exploratory Data Analysis) where the main characteristics are analysed followed by a visualization.
   
-  Tasks performed in this model :
+  ✔Tasks performed in this model :
   1. Import essential libraries
   2. Load breast cancer dataset and explore
       -  Creating Dataframes
@@ -31,4 +31,4 @@ Building a Simple Machine Learning Model on Breast Cancer Data    || Still worki
   10. Cross Validation of model
   11. Saving the model
           
-   
+  
