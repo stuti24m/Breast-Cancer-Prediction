@@ -31,4 +31,7 @@
   10. Cross Validation of model
   11. Saving the model
           
+  # Reference ---
+  https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
   
+  https://www.sciencedirect.com/science/article/pii/S1877050918309323
